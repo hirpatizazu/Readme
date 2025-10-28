@@ -1,6 +1,6 @@
-# 🧬 Gutu's GitHub
+# 🧬 GitHub
 
-Hi, I'm **Gutu**, a **Biomedical Engineering student** passionate about combining engineering, coding, and data science to solve real-world problems in healthcare and technology.  
+Hi, I'm **Hirpo**, a **Biomedical Engineering student** passionate about combining engineering, coding, and data science to solve real-world problems in healthcare and technology.  
 
 ---
 
@@ -8,8 +8,8 @@ Hi, I'm **Gutu**, a **Biomedical Engineering student** passionate about combinin
 - 🎓 Biomedical Engineering student at the **biggest university in Ethiopia**  
 - 💻 Python developer | Data analyst | Machine learning & AI enthusiast  
 - ⚡ Currently exploring **wearable AI health devices, real-time monitoring systems, and biomedical projects**  
-- 🌱 Learning: Forex trading, AI, ML, data analytics, and content creation  
-- 📫 Reach me: [Your Email](mailto:youremail@example.com) | [LinkedIn Profile](#)  
+- 🌱 Learning: AI, ML, data analytics, and content creation  
+- 📫 Reach me: [hirpatizazu@gmail.com) | [LinkedIn: hirpatizazu](#)  
 
 ---
 
@@ -47,9 +47,9 @@ Here are some of my notable projects:
 ---
 
 ## 🔹 Connect with Me
-- [LinkedIn](#)  
-- [Email](mailto:youremail@example.com)  
-- [YouTube](#) (for project tutorials and tech content)  
+- [LinkedIn: hirpatizazu](#)  
+- [Email](hirpatizazu@gmail.com)  
+- [YouTube](#) (hidengem for know)  
 
 ---
 
